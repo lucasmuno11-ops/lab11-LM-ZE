@@ -1,3 +1,7 @@
+# https://github.com/lucasmuno11-ops/lab11-LM-ZE.git
+# Partner 1: Lucas Munoz
+# Partner 2: Zander Ehlert
+
 import math
 
 def square_root(a):
